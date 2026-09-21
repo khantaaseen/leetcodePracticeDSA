@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0242-valid-anagram) |
+| [0380-insert-delete-getrandom-o1](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0383-ransom-note) |
 ## String
 |  |
@@ -21,4 +22,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0383-ransom-note) |
+## Array
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0380-insert-delete-getrandom-o1) |
+## Math
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0380-insert-delete-getrandom-o1) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
