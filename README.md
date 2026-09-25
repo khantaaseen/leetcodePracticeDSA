@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0041-first-missing-positive) |
+| [0146-lru-cache](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0383-ransom-note) |
@@ -35,9 +36,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0380-insert-delete-getrandom-o1) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
