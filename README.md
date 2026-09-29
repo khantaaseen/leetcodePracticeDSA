@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0383-ransom-note) |
 ## Sorting
@@ -50,4 +51,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0146-lru-cache) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
