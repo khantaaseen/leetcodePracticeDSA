@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0022-generate-parentheses) |
+| [0077-combinations](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0077-combinations) |
 ## Bracket Sequences
 |  |
 | ------- |
