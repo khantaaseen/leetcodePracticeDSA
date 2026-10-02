@@ -4,15 +4,14 @@
  * @return {number[][]}
  */
 var combine = function(n, k) {
-
-    let res = []
+    
+    let res = [];
 
     if(n == 1){
         return [[1]];
     }
 
-    let combinations = []
-
+    let combinations = [];
 
     function dfs(start, combinations){
         if(combinations.length == k){
