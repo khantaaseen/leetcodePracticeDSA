@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0347-top-k-frequent-elements) |
 ## Counting
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0041-first-missing-positive) |
 | [0347-top-k-frequent-elements](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -84,4 +86,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
