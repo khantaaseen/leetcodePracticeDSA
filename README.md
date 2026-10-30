@@ -13,12 +13,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -104,4 +106,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/khantaaseen/leetcodePracticeDSA/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
